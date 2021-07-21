@@ -24,7 +24,7 @@
 		"dotenv": "^10.0.0",
 		"ejs": "^3.1.6",
 		"express": "^4.17.1",
-		"googleapis": "^81.0.0",
+		"googleapis": "^82.0.0",
 		"handlebars": "^4.7.7",
 		"jsonwebtoken": "^8.5.1",
 		"lodash": "^4.17.21",
